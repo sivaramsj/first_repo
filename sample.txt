@@ -1,1 +1,2 @@
-welcome to git
+welcome to git 
+my first git practise
